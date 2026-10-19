@@ -11,7 +11,7 @@
         "restartPolicyMaxRetries": 10
       },
       "source": {
-        "repo": "https://github.com/nomideusz/dependency-track-railway",
+        "repo": "https://github.com/two-workspaces/dependency-track",
         "rootDirectory": "/frontend"
       },
       "variables": {
@@ -48,7 +48,7 @@
         "restartPolicyMaxRetries": 10
       },
       "source": {
-        "repo": "https://github.com/nomideusz/dependency-track-railway",
+        "repo": "https://github.com/two-workspaces/dependency-track",
         "rootDirectory": "/apiserver"
       },
       "variables": {

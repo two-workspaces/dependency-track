@@ -27,7 +27,7 @@ There are three services: Dependency-Track (the web UI), API and Postgres.
 
 - [Official documentation](https://docs.dependencytrack.org/)
 - [CycloneDX SBOM generators](https://cyclonedx.org/tool-center/) for your build tools
-- [Template source on GitHub](https://github.com/nomideusz/dependency-track-railway)
+- [Template source on GitHub](https://github.com/two-workspaces/dependency-track)
 
 ### Implementation Details
 
